@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+h1{
+    padding: 0;
+    margin: 0;
+}
+.ayat_section{
+    background-color: blanchedalmond;
+    margin:0 auto;
+    width: 600px;
+    padding: 20px 50px;
+    border-radius: 12px;
+}
